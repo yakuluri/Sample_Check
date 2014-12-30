@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Dreamforce</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Dreamforce</value>
+    </caseValues>
+    <fields>
+        <help><!-- Use to note any delay in processing --></help>
+        <label><!-- Additional Comments --></label>
+        <name>Additional_Comments__c</name>
+    </fields>
+    <fields>
+        <label><!-- Adjust Hours Discussion --></label>
+        <name>Adjust_Hours_Discussion__c</name>
+    </fields>
+    <fields>
+        <label><!-- Base Location --></label>
+        <name>Base_Location__c</name>
+        <picklistValues>
+            <masterLabel>Bengaluru</masterLabel>
+            <translation><!-- Bengaluru --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Hyderabad</masterLabel>
+            <translation><!-- Hyderabad --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Mumbai</masterLabel>
+            <translation><!-- Mumbai --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Client Visit Included? --></label>
+        <name>Client_Visit_Included__c</name>
+    </fields>
+    <fields>
+        <label><!-- Dreamforce Registration Complete? --></label>
+        <name>Dreamforce_Registration_Complete__c</name>
+    </fields>
+    <fields>
+        <label><!-- Has Visa? --></label>
+        <name>Has_Visa__c</name>
+    </fields>
+    <fields>
+        <label><!-- Hotel Booking Complete? --></label>
+        <name>Hotel_Booking_Complete__c</name>
+    </fields>
+    <fields>
+        <label><!-- POE Letter --></label>
+        <name>POE_Letter__c</name>
+        <picklistValues>
+            <masterLabel>Received Letter</masterLabel>
+            <translation><!-- Received Letter --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Requested Letter</masterLabel>
+            <translation><!-- Requested Letter --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- Practitioner Name --></label>
+        <name>Practitioner_Name__c</name>
+    </fields>
+    <fields>
+        <label><!-- Received DF Code --></label>
+        <name>Received_DF_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- SFO Fly out Date --></label>
+        <name>SFO_Fly_out_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- SFO Landing Date --></label>
+        <name>SFO_Landing_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Sponsored By --></label>
+        <name>Sponsored_By__c</name>
+    </fields>
+    <fields>
+        <label><!-- Tickets Booking Complete? --></label>
+        <name>Tickets_Booking_Complete__c</name>
+    </fields>
+    <fields>
+        <label><!-- Visa Interview Date --></label>
+        <name>Visa_Interview_Date__c</name>
+    </fields>
+    <fields>
+        <label><!-- Visa Status --></label>
+        <name>Visa_Status__c</name>
+        <picklistValues>
+            <masterLabel>Awaiting Visa Payment Receipt</masterLabel>
+            <translation><!-- Awaiting Visa Payment Receipt --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Received Passport with Visa stamped</masterLabel>
+            <translation><!-- Received Passport with Visa stamped --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Submitted DS-160</masterLabel>
+            <translation><!-- Submitted DS-160 --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Submitted documents to Immigration Team</masterLabel>
+            <translation><!-- Submitted documents to Immigration Team --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Visa Interview Complete - Accept</masterLabel>
+            <translation><!-- Visa Interview Complete - Accept --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Visa Interview Complete - Reject</masterLabel>
+            <translation><!-- Visa Interview Complete - Reject --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Visa Interview Scheduled</masterLabel>
+            <translation><!-- Visa Interview Scheduled --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- WBS Code --></label>
+        <name>WBS_Code__c</name>
+    </fields>
+    <fields>
+        <label><!-- WBS code for DF Registration --></label>
+        <name>WBS_code_for_DF_Registration__c</name>
+    </fields>
+    <layouts>
+        <layout>Dreamforce Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label><!-- Dreamforce --></label>
+            <section>Dreamforce</section>
+        </sections>
+        <sections>
+            <label><!-- Notes --></label>
+            <section>Notes</section>
+        </sections>
+        <sections>
+            <label><!-- Practitioner Details --></label>
+            <section>Practitioner Details</section>
+        </sections>
+        <sections>
+            <label><!-- Project --></label>
+            <section>Project</section>
+        </sections>
+        <sections>
+            <label><!-- Travel --></label>
+            <section>Travel</section>
+        </sections>
+        <sections>
+            <label><!-- Visa --></label>
+            <section>Visa</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
